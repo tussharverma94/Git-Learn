@@ -1,2 +1,2 @@
 # Git-Learn
-This repo is made got learning git and its commands
+This repo is made for learning git and its commands
